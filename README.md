@@ -1,4 +1,4 @@
-# francescolazzarotto.github.io
+
 <h1 align="center">Hi 👋, I'm Francesco Lazzarotto</h1>
 <h3 align="center">A technology enthusiast from Italy.</h3>
 
