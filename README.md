@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Francesco Lazzarotto</h1>
 <h3 align="center">A technology enthusiast from Italy.</h3>
 
-- 🔭 I’m currently working on **My bachelor thesis - research project: Crafting an text-mining model to analyze sentiments and opinions within climate change-related tweets and confronting them with real climate change data. Integrating diverse datasets and leveraging different technologies**
+- 🔭 I’m currently working on **My bachelor thesis - research project: Crafting a text-mining model to analyze sentiments and opinions within climate change-related tweets and reddit's post and confronting them with real climate change data. Integrating diverse datasets and leveraging different technologies**
 
 - 🌱 I’m currently learning **NLP, TEXT-MINING, NLTK AND WEKA**
 
