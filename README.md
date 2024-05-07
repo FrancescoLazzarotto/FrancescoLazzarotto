@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My bachelor thesis - research project: Crafting a text-mining model to analyze sentiments and opinions within climate change-related tweets and reddit's post and confronting them with real climate change data. Integrating diverse datasets and leveraging different technologies](https://github.com/FrancescoLazzarotto/Climate-Change-Analysis)
 
-- 🌱 I’m currently learning **NLP, TEXT-MINING, NLTK AND WEKA**
+- 🌱 I’m currently learning **NLP, Text-mining, NLTK and Machine Learning**
 
 - 📫 How to reach me **checcolazzarotto@gmail.com / francesco.lazzarotto@edu.unito.it**
 
