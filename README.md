@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Francesco Lazzarotto</h1>
-<h3 align="center">🌍 Technology Enthusiast • Data Explorer • Code Craftsman</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/" target="_blank">
@@ -8,8 +8,8 @@
   <a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-Francesco%20Lazzarotto-orange?logo=stackoverflow&style=flat-square" />
   </a>
-  <a href="mailto:checcolazzarotto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-checcolazzarotto%40gmail.com-red?logo=gmail&style=flat-square" />
+  <a href="mailto:francesco.lazzarotto01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-francesco.lazzarotto01%40gmail.com-red?logo=gmail&style=flat-square" />
   </a>
 </p>
 
@@ -18,9 +18,7 @@
 ### 🧠 About Me
 
 🎓 I’m currently a student in *Information and Communication Technology*  
-📊 I’m passionate about **Machine Learning**, **Data Analysis**, and **Web Development**  
-🌱 I’m diving deeper into **AI**, **Python**, and **Data-Driven Research**  
-💡 Always curious, always learning.
+
 
 <!-- Uncomment if needed in the future
 🔬 Currently working on: [**My Bachelor Thesis** – Crafting a text-mining model to analyze climate-related sentiments on Twitter and Reddit](https://github.com/FrancescoLazzarotto/Climate-Change-Analysis)
@@ -54,20 +52,4 @@
 
 ---
 
-### 🚀 Fun Facts
 
-- 🧩 I love developing interactive projects with a mix of logic, UI and data  
-- 🎮 I'm working on AI-driven games and simulations in Python  
-- 🌱 My academic journey is a playground where code meets research  
-- ✨ My motto? *Curiosity, Creativity, Code.*
-
----
-
-### 📌 Pinned Projects
-
-🔍 [**Climate Change Sentiment Analysis**](https://github.com/FrancescoLazzarotto/Climate-Change-Analysis)  
-A research project exploring climate change discussions on social platforms using NLP and data analysis.
-
----
-
-> *Thanks for visiting! Let's connect and build something awesome together! 🚀*
