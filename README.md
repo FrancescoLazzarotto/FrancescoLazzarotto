@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-        <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
     </td>
     <td align="center" width="100">
@@ -39,35 +39,32 @@
     <td align="center" width="100">
       <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40" alt="SQL"/><br>SQL
     </td>
-   <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL
     </td>
-     <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/><br>Arduino
-    </td>
-    
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br>PHP
-    </td>
-    
-  
-    
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br>HTML5
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/><br>CSS3
     </td>
-      <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
     </td>
- 
-  
+    <td align="center" width="100">
+      <!-- Spazio vuoto, puoi aggiungere un'altra icona -->
+    </td>
   </tr>
-
 </table>
+
 
 ---
 
