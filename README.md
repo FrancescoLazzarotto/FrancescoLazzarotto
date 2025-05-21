@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Francesco Lazzarotto</h1>
+<h1 align="center"> Hi there, I'm Francesco Lazzarotto</h1>
 
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-🎓 I’m currently a student in *Information and Communication Technology*  
+ I’m currently a student in *Information and Communication Technology*  
 
 
 <!-- Uncomment if needed in the future
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech & Tools I Use
+###  Tech & Tools I Use
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
