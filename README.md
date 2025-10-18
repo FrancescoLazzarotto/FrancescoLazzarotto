@@ -71,7 +71,7 @@
 
 ### 📫 How to Reach Me
 
-- **Email**: checcolazzarotto@gmail.com / francesco.lazzarotto@edu.unito.it  
+- **Email**: francescolazzarotto01@gmail.com / francesco.lazzarotto@edu.unito.it  
 - **LinkedIn**: [linkedin.com/in/francesco-lazzarotto-a09aa51ba](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba)  
 - **StackOverflow**: [stackoverflow.com/users/14979870](https://stackoverflow.com/users/14979870/francesco-lazzarotto)
 
