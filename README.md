@@ -1,67 +1,69 @@
-<h1 align="center"> Hi there, I'm Francesco Lazzarotto</h1>
-
+<h1 align="center">Hi there, I'm Francesco Lazzarotto 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Lazzarotto-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Francesco%20Lazzarotto-orange?logo=stackoverflow&style=flat-square" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   <a href="mailto:francesco.lazzarotto01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-francesco.lazzarotto01%40gmail.com-red?logo=gmail&style=flat-square" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
- I’m currently a Research Intern in *LLMs and Knowledge System*  
+I’m a **Research Intern** specialized in **LLMs and Knowledge Systems**. I focus on bridging the gap between raw data and actionable knowledge using state-of-the-art Deep Learning architectures.
 
-
-<!-- Uncomment if needed in the future
-🔬 Currently working on: [**My Bachelor Thesis** – Crafting a text-mining model to analyze climate-related sentiments on Twitter and Reddit](https://github.com/FrancescoLazzarotto/Climate-Change-Analysis)
--->
-
----
-
-### Tech & Tools I Use
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40" alt="SQL"/><br>SQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/><br>Arduino
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br>PHP
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++
-    </td>
-  </tr>
-</table>
-
-
-
+- 🔭 **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration.
+- 🧠 **AI Expertise**: Building complex chains with LangChain and fine-tuning Transformer models.
+- 🎓 **Background**: Academic research in AI at Università degli Studi di Torino.
+- 💬 **Ask me about**: LLM Orchestration, NLP, and why Python is the king of AI.
 
 ---
 
-### 📫 How to Reach Me
+### 🛠 Tech Stack & Tools
 
-- **Email**: francescolazzarotto01@gmail.com / francesco.lazzarotto@edu.unito.it  
-- **LinkedIn**: [linkedin.com/in/francesco-lazzarotto-a09aa51ba](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba)  
-- **StackOverflow**: [stackoverflow.com/users/14979870](https://stackoverflow.com/users/14979870/francesco-lazzarotto)
+#### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
+
+#### 💻 Programming & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoLazzarotto&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoLazzarotto&layout=compact&theme=radical&hide_border=true" width="41%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- **Personal Email**: [francescolazzarotto01@gmail.com](mailto:francescolazzarotto01@gmail.com)
+- **Academic Email**: [francesco.lazzarotto@edu.unito.it](mailto:francesco.lazzarotto@edu.unito.it)
+- **LinkedIn**: [in/francesco-lazzarotto](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/)
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
