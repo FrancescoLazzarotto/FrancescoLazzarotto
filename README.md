@@ -18,7 +18,7 @@
 
 I’m a **Research Intern** specialized in **LLMs and Knowledge Systems**. I focus on bridging the gap between raw data and actionable knowledge using state-of-the-art Deep Learning architectures.
 
-- 🔭 **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration, trying to build complex chains with LangChain and fine-tuning Transformer models.
+- **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration, trying to build complex chains with LangChain and fine-tuning Transformer models.
 
 
 ---
@@ -37,7 +37,6 @@ I’m a **Research Intern** specialized in **LLMs and Knowledge Systems**. I foc
 ####  Programming & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
