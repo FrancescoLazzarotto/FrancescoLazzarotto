@@ -14,30 +14,27 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I’m a **Research Intern** specialized in **LLMs and Knowledge Systems**. I focus on bridging the gap between raw data and actionable knowledge using state-of-the-art Deep Learning architectures.
 
-- 🔭 **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration.
-- 🧠 **AI Expertise**: Building complex chains with LangChain and fine-tuning Transformer models.
-- 🎓 **Background**: Academic research in AI at Università degli Studi di Torino.
-- 💬 **Ask me about**: LLM Orchestration, NLP, and why Python is the king of AI.
+- 🔭 **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration, trying to build complex chains with LangChain and fine-tuning Transformer models.
+
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
-#### 🤖 Artificial Intelligence & Machine Learning
+#### Artificial Intelligence & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-#### 💻 Programming & Databases
+####  Programming & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -49,21 +46,11 @@ I’m a **Research Intern** specialized in **LLMs and Knowledge Systems**. I foc
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoLazzarotto&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoLazzarotto&layout=compact&theme=radical&hide_border=true" width="41%" />
-</p>
-
----
-
-### 📫 Let's Connect
+###  Let's Connect
 
 - **Personal Email**: [francescolazzarotto01@gmail.com](mailto:francescolazzarotto01@gmail.com)
 - **Academic Email**: [francesco.lazzarotto@edu.unito.it](mailto:francesco.lazzarotto@edu.unito.it)
 - **LinkedIn**: [in/francesco-lazzarotto](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/)
 
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>
+
