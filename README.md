@@ -17,7 +17,7 @@
 
 ###  About Me
 
- I’m currently a student in *Information and Communication Technology*  
+ I’m currently a Research Intern in *LLMs and Knowledge System*  
 
 
 <!-- Uncomment if needed in the future
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧠 Tech & Tools I Use
+### Tech & Tools I Use
 
 <table>
   <tr>
