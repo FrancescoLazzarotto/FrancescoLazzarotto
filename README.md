@@ -16,7 +16,7 @@
 
 ###  About Me
 
-I’m a Master's Degree Student and **Research Intern** specialized in **LLMs and Knowledge Systems**. I focus on bridging the gap between raw data and actionable knowledge using state-of-the-art Deep Learning architectures.
+I’m a Master's degree student and research intern specializing in **LLMs and Knowledge Systems**. I focus on bridging the gap between raw data and actionable knowledge using state-of-the-art Deep Learning architectures.
 
 - **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration, trying to build complex chains with LangChain and fine-tuning Transformer models.
 
