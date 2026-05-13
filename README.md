@@ -1,55 +1,79 @@
-<h1 align="center">Hi there, I'm Francesco Lazzarotto 👋</h1>
+<h1 align="center">Francesco Lazzarotto</h1>
+
+<h3 align="center">
+AI Research Intern • LLMs • Knowledge Systems • GraphRAG
+</h3>
+
+<p align="center">
+  Building intelligent systems that connect structured knowledge and Large Language Models.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
+
   <a href="mailto:francesco.lazzarotto01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-###  About Me
+## About Me
 
-I’m a Master's degree student and research intern specializing in **LLMs and Knowledge Systems**. I focus on bridging the gap between raw data and actionable knowledge using state-of-the-art Deep Learning architectures.
+I'm an AI Research Intern focused on **Large Language Models**, **Knowledge Graphs**, and **Retrieval-Augmented Generation (RAG)** systems.
 
-- **Current Focus**: Researching RAG (Retrieval-Augmented Generation) and Knowledge Graph integration, trying to build complex chains with LangChain and fine-tuning Transformer models.
+My work focuses on designing end-to-end AI pipelines that integrate structured knowledge with modern deep learning architectures, with particular interest in:
 
-
----
-
-### Tech Stack & Tools
-
-#### Artificial Intelligence & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
-
-####  Programming & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
+- GraphRAG and hybrid retrieval systems
+- Knowledge Graph integration for LLMs
+- Structured prompting and reasoning pipelines
+- Transformer fine-tuning and embedding models
+- LangChain orchestration and AI workflows
 
 ---
 
+## Tech Stack
 
-###  Let's Connect
+### AI & Machine Learning
 
-- **Personal Email**: [francescolazzarotto01@gmail.com](mailto:francescolazzarotto01@gmail.com)
-- **Academic Email**: [francesco.lazzarotto@edu.unito.it](mailto:francesco.lazzarotto@edu.unito.it)
-- **LinkedIn**: [in/francesco-lazzarotto](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/)
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
 
+### Programming & Databases
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+## Current Research
+
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG architectures
+- Knowledge-based reasoning for LLMs
+- Semantic retrieval and embeddings
+- AI systems for Food & Circular Gastronomy
+
+---
+
+## Connect With Me
+
+- Personal Email → `francescolazzarotto01@gmail.com`
+- Academic Email → `francesco.lazzarotto@edu.unito.it`
+- LinkedIn → [francesco-lazzarotto](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/)
