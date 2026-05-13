@@ -5,7 +5,7 @@ AI Research Intern • LLMs • Knowledge Systems • GraphRAG
 </h3>
 
 <p align="center">
-  Building intelligent systems that connect structured knowledge and Large Language Models.
+ Passionate about AI, technology, scientific research, astronomy, and robotics.
 </p>
 
 <p align="center">
