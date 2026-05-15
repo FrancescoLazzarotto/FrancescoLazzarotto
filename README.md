@@ -1,22 +1,18 @@
 <h1 align="center">Francesco Lazzarotto</h1>
 
-<h3 align="center">
-AI Research Intern • LLMs • Knowledge Systems • GraphRAG
-</h3>
+<h3 align="center">AI Research Intern &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Knowledge Systems &nbsp;·&nbsp; GraphRAG</h3>
 
 <p align="center">
- Passionate about AI, technology, scientific research, astronomy, and robotics.
+  Passionate about AI, technology, scientific research, astronomy, and robotics.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
-
   <a href="mailto:francesco.lazzarotto01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -26,15 +22,27 @@ AI Research Intern • LLMs • Knowledge Systems • GraphRAG
 
 ## About Me
 
-I'm an AI Research Intern focused on **Large Language Models**, **Knowledge Graphs**, and **Retrieval-Augmented Generation (RAG)** systems.
+I am an AI Research Intern focused on **Large Language Models**, **Knowledge Graphs**, and **Retrieval-Augmented Generation (RAG)** systems.
 
-My work focuses on designing end-to-end AI pipelines that integrate structured knowledge with modern deep learning architectures, with particular interest in:
+My work centers on designing end-to-end AI pipelines that integrate structured knowledge with modern deep learning architectures. Areas of particular interest include:
 
 - GraphRAG and hybrid retrieval systems
 - Knowledge Graph integration for LLMs
 - Structured prompting and reasoning pipelines
 - Transformer fine-tuning and embedding models
 - LangChain orchestration and AI workflows
+
+---
+
+## Current Research
+
+| Topic | Description |
+|---|---|
+| Retrieval-Augmented Generation | End-to-end RAG pipelines with hybrid retrieval strategies |
+| GraphRAG Architectures | Combining Knowledge Graphs with LLM-based generation |
+| Knowledge-based Reasoning | Structured knowledge integration for LLM reasoning |
+| Semantic Retrieval & Embeddings | Dense and sparse retrieval, embedding model evaluation |
+| AI for Food & Circular Gastronomy | Applied AI systems in sustainable food domains |
 
 ---
 
@@ -62,18 +70,10 @@ My work focuses on designing end-to-end AI pipelines that integrate structured k
 
 ---
 
-## Current Research
+## Contact
 
-- Retrieval-Augmented Generation (RAG)
-- GraphRAG architectures
-- Knowledge-based reasoning for LLMs
-- Semantic retrieval and embeddings
-- AI systems for Food & Circular Gastronomy
-
----
-
-## Connect With Me
-
-- Personal Email → `francescolazzarotto01@gmail.com`
-- Academic Email → `francesco.lazzarotto@edu.unito.it`
-- LinkedIn → [francesco-lazzarotto](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/)
+| Channel | Address |
+|---|---|
+| Personal Email | [francescolazzarotto01@gmail.com](mailto:francescolazzarotto01@gmail.com) |
+| Academic Email | [francesco.lazzarotto@edu.unito.it](mailto:francesco.lazzarotto@edu.unito.it) |
+| LinkedIn | [francesco-lazzarotto](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/) |
