@@ -43,6 +43,7 @@ My work centers on designing end-to-end AI pipelines that integrate structured k
 | Knowledge-based Reasoning | Structured knowledge integration for LLM reasoning |
 | Semantic Retrieval & Embeddings | Dense and sparse retrieval, embedding model evaluation |
 | AI for Food & Circular Gastronomy | Applied AI systems in sustainable food domains |
+| Recommender Systems | Applied recommender systems |
 
 ---
 
