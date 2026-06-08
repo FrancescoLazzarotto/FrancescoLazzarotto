@@ -1,6 +1,6 @@
 <h1 align="center">Francesco Lazzarotto</h1>
 
-<h3 align="center">AI Research Intern &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Knowledge Systems &nbsp;·&nbsp; GraphRAG</h3>
+<h3 align="center">AI Research Fellow &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Knowledge Systems &nbsp;·&nbsp; GraphRAG</h3>
 
 <p align="center">
   Passionate about AI, technology, scientific research, astronomy, and robotics.
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I am an AI Research Intern focused on **Large Language Models**, **Knowledge Graphs**, and **Retrieval-Augmented Generation (RAG)** systems.
+I am an AI Research Fellow focused on **Large Language Models**, **Knowledge Graphs**, and **Retrieval-Augmented Generation (RAG)** systems.
 
 My work centers on designing end-to-end AI pipelines that integrate structured knowledge with modern deep learning architectures. Areas of particular interest include:
 
