@@ -1,6 +1,6 @@
 <h1 align="center">Francesco Lazzarotto</h1>
 
-<h3 align="center">AI Research Fellow &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Knowledge Systems &nbsp;·&nbsp; GraphRAG</h3>
+<h3 align="center">AI Research Intern &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Knowledge Systems &nbsp;·&nbsp; GraphRAG</h3>
 
 <p align="center">
   Passionate about AI, technology, scientific research, astronomy, and robotics.
