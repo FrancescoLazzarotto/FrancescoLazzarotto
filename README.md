@@ -17,7 +17,7 @@ Knowledge Graphs&nbsp;&nbsp;·&nbsp;&nbsp;Retrieval-Augmented Generation&nbsp;&n
 
 I work on getting language models to answer from **structured, verifiable knowledge** rather than parametric memory — grounding retrieval in knowledge graphs, then measuring whether it actually helped.
 
-Currently applying GraphRAG to the **circular economy for food**, part of the GaIA project with the University of Gastronomic Sciences of Pollenzo.
+Currently applying GraphRAG and Ontology to the **circular economy for food**.
 
 <br/>
 
