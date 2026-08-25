@@ -67,7 +67,7 @@ Developing evaluation pipelines for **groundedness, relevance and answer quality
 
 **Balancing Thematic Relevance and Cognitive Load in Adaptive Text Recommendation for Learners with SLDs**
 
-G. Coucourde, F. Lazzarotto, F. Cena
+Francesco Lazzarotto, Giulia Coucourde, Federica Cena
 *ACM UMAP 2026*
 
 ---
