@@ -1,92 +1,172 @@
 <div align="center">
 
-# Francesco Lazzarotto
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Research%20%7C%20Knowledge%20Graphs%20%7C%20LLMs&descAlignY=58&descSize=18" />
 
-**AI Research Fellow — University of Turin, Dept. of Computer Science**
+### AI Research Fellow · University of Turin
 
-Knowledge Graphs&nbsp;&nbsp;·&nbsp;&nbsp;Retrieval-Augmented Generation&nbsp;&nbsp;·&nbsp;&nbsp;LLM Evaluation
+Building systems that connect **LLMs with structured, verifiable knowledge**.
 
-<a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:francescolazzarotto01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:francesco.lazzarotto@edu.unito.it"><img alt="Academic mail" src="https://img.shields.io/badge/UniTo-005580?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:francescolazzarotto01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2563EB&label=Profile+Views"/>
 
 </div>
 
-<br/>
+---
 
-I work on getting language models to answer from **structured, verifiable knowledge** rather than parametric memory — grounding retrieval in knowledge graphs, then measuring whether it actually helped.
+## About
 
-Currently applying GraphRAG and Ontology to the **circular economy for food**.
+I'm an AI researcher and engineer working at the intersection of **Large Language Models, Knowledge Graphs and Retrieval-Augmented Generation**.
 
-<br/>
+My main interest is making LLM systems more **grounded, interpretable and verifiable** by connecting language models to structured representations of knowledge.
 
-## Currently
+Currently working on **GraphRAG and ontology-driven AI for food circular economy**.
 
-**Graph-grounded retrieval** — building and iteratively repairing a Neo4j knowledge graph over food-security corpora, then measuring what the structure buys over plain-text RAG.
+---
 
-**Retrieval strategy evaluation** — comparing dense, sparse and graph-based knowledge provision on the same benchmark.
+## What I'm working on
 
-**LLM-as-judge harness** — a custom evaluation framework running Qwen models on a multi-GPU vLLM cluster to score groundedness at scale.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### GraphRAG
 
-## Publications
+Building and iteratively repairing **Neo4j knowledge graphs** from food-security and circular-economy corpora.
+
+The goal is to understand when structured retrieval actually improves generation compared with conventional text-based RAG.
+
+</td>
+<td width="50%" valign="top">
+
+### LLM Evaluation
+
+Developing evaluation pipelines for **groundedness, relevance and answer quality**, including LLM-as-a-judge workflows running Qwen models with **vLLM** on multi-GPU infrastructure.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Research
+
+### Published
 
 **Balancing Thematic Relevance and Cognitive Load in Adaptive Text Recommendation for Learners with SLDs**
-<!-- controlla l'ordine degli autori prima di pubblicare -->
-G. Coucourde, F. Lazzarotto, F. Cena — *ACM UMAP 2026*
 
-<br/>
+G. Coucourde, F. Lazzarotto, F. Cena
+*ACM UMAP 2026*
 
-## Stack
+---
 
-**Core** &nbsp;
-<img alt="Python" src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=3776AB"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1F2328?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-1F2328?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1F2328?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
-<img alt="vLLM" src="https://img.shields.io/badge/vLLM-1F2328?style=flat-square&logo=lightning&logoColor=FDB515"/>
+## Tech Stack
 
-**Data** &nbsp;
-<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-1F2328?style=flat-square&logo=neo4j&logoColor=4581C3"/>
-<img alt="Cypher" src="https://img.shields.io/badge/Cypher-1F2328?style=flat-square&logo=neo4j&logoColor=4581C3"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1F2328?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1F2328?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+### AI / ML
 
-<details>
-<summary>Also worked with</summary>
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge&logo=lightning&logoColor=FDB515"/>
+</p>
 
-<br/>
+### Knowledge & Data
 
-Keras · MySQL · PHP · Arduino · HTML/CSS/JS · Bootstrap · Figma — from earlier front-end and teaching work.
+<p>
+<img src="https://img.shields.io/badge/Neo4j-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
+<img src="https://img.shields.io/badge/Cypher-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</p>
 
-</details>
+### Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### Readability-Navigator
+
+Adaptive text recommendation system for learners with specific learning difficulties.
+
+**Stack:** Python · SBERT · K-Means · Streamlit
+
+</td>
+
+<td width="50%">
+
+### GraphRAG Food
+
+Knowledge-graph-based retrieval pipeline for food security and circular economy research.
+
+**Stack:** Neo4j · Python · LLMs · RAG
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
 
 <br/>
 
 <div align="center">
-<sub>Beyond research: astronomy and robotics.</sub>
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=transparent"/>
+
 </div>
 
-<!--
-════════════════════════════════════════════════════════════════
-BLOCCHI OPZIONALI — scommenta se ti servono
-════════════════════════════════════════════════════════════════
+---
 
-1) CARD STATISTICHE GITHUB — sostituisci USERNAME.
-   Sfondo trasparente, si adatta a tema chiaro e scuro.
-   L'istanza pubblica va spesso in rate limit: se l'immagine si rompe
-   spesso, self-host su Vercel (fork di anuraghazra/github-readme-stats).
+## Currently learning
+
+PyTorch internals · Advanced RAG architectures · Knowledge Graph Engineering · LLM evaluation · Ontology design
+
+---
 
 <div align="center">
-  <img alt="GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB&hide=issues&hide_title=true"/>
+
+### Beyond AI
+
+Astronomy · Robotics · Formula 1 · Mountain Biking · Guitar
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
+
 </div>
-
-2) ORCID / GOOGLE SCHOLAR — da aggiungere ai badge dell'header.
-
-<a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=XXXX"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-
-════════════════════════════════════════════════════════════════
--->
