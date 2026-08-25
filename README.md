@@ -20,8 +20,8 @@ Building systems that connect **LLMs with structured, verifiable knowledge**.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2563EB&label=Profile+Views"/>
-
+<!-- <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2563EB&label=Profile+Views"/>
+-->
 </div>
 
 ---
@@ -104,60 +104,3 @@ G. Coucourde, F. Lazzarotto, F. Cena
 </p>
 
 ---
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### Readability-Navigator
-
-Adaptive text recommendation system for learners with specific learning difficulties.
-
-**Stack:** Python · SBERT · K-Means · Streamlit
-
-</td>
-
-<td width="50%">
-
-### GraphRAG Food
-
-Knowledge-graph-based retrieval pipeline for food security and circular economy research.
-
-**Stack:** Neo4j · Python · LLMs · RAG
-
-</td>
-</tr>
-</table>
-
----
-
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## Currently learning
-
-PyTorch internals · Advanced RAG architectures · Knowledge Graph Engineering · LLM evaluation · Ontology design
-
----
-
-<div align="center">
-
-### Beyond AI
-
-Astronomy · Robotics · Formula 1 · Mountain Biking · Guitar
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
-
-</div>
