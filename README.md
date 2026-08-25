@@ -1,139 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Research%20%7C%20Knowledge%20Graphs%20%7C%20LLMs&descAlignY=58&descSize=18" />
+# Francesco Lazzarotto
 
-### AI Research Fellow · University of Turin
+### AI Research · Knowledge Graphs · LLM Systems
 
-Building systems that connect **LLMs with structured, verifiable knowledge**.
+I build **grounded AI systems** that connect language models with structured knowledge.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:francescolazzarotto01@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/francesco-lazzarotto-a09aa51ba/)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square\&logo=gmail\&logoColor=white)](mailto:francescolazzarotto01@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-111827?style=flat-square\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/14979870/francesco-lazzarotto)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2563EB&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm an AI researcher and engineer working at the intersection of **Large Language Models, Knowledge Graphs and Retrieval-Augmented Generation**.
+I'm an AI researcher and engineer at the **University of Turin**, working at the intersection of:
 
-My main interest is making LLM systems more **grounded, interpretable and verifiable** by connecting language models to structured representations of knowledge.
+`LLMs` · `Knowledge Graphs` · `RAG` · `Ontologies` · `Evaluation`
 
-Currently working on **GraphRAG and ontology-driven AI for food circular economy**.
+My research focuses on a simple question:
 
----
-
-## What I'm working on
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### GraphRAG
-
-Building and iteratively repairing **Neo4j knowledge graphs** from food-security and circular-economy corpora.
-
-The goal is to understand when structured retrieval actually improves generation compared with conventional text-based RAG.
-
-</td>
-<td width="50%" valign="top">
-
-### LLM Evaluation
-
-Developing evaluation pipelines for **groundedness, relevance and answer quality**, including LLM-as-a-judge workflows running Qwen models with **vLLM** on multi-GPU infrastructure.
-
-</td>
-</tr>
-</table>
+> **How can we make LLMs reason over knowledge that we can actually inspect and verify?**
 
 ---
 
-## Research
+## `> currently_building`
 
-### Published
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   GraphRAG for Food & Circular Economy                       │
+│                                                              │
+│   Knowledge Graph                                             │
+│        ↓                                                     │
+│   Graph Retrieval                                             │
+│        ↓                                                     │
+│   LLM Generation                                              │
+│        ↓                                                     │
+│   Groundedness Evaluation                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+Building a **Neo4j knowledge graph** over food-security and circular-economy knowledge, combining graph retrieval with LLMs and evaluating whether structured context actually improves generation.
+
+Alongside this, I'm developing an **LLM-as-a-judge evaluation framework** using Qwen models, vLLM and multi-GPU infrastructure.
+
+---
+
+## Selected work
+
+### `Readability-Navigator`
+
+Adaptive text recommendation for learners with specific learning difficulties.
+
+A hybrid recommender combining semantic representations, readability estimation and user modelling to select texts that balance **topic relevance and cognitive load**.
+
+`Python` `SBERT` `K-Means` `Streamlit`
+
+**ACM UMAP 2026**
+
+---
+
+### `GraphRAG Food`
+
+Research platform for experimenting with **graph-grounded retrieval** in the food and circular-economy domain.
+
+The system compares structured retrieval against conventional text-based RAG while evaluating groundedness and answer quality.
+
+`Neo4j` `Cypher` `Python` `LLMs` `RAG`
+
+---
+
+### `LLM Evaluation`
+
+Evaluation infrastructure for running large-scale experiments with LLM judges.
+
+Designed around reproducible experiments, batched inference and multi-GPU execution.
+
+`Qwen` `vLLM` `PyTorch` `Python`
+
+---
+
+## Publication
 
 **Balancing Thematic Relevance and Cognitive Load in Adaptive Text Recommendation for Learners with SLDs**
 
-G. Coucourde, F. Lazzarotto, F. Cena
+G. Coucourde · F. Lazzarotto · F. Cena
+
 *ACM UMAP 2026*
 
 ---
 
-## Tech Stack
+## Technical focus
 
-### AI / ML
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge&logo=lightning&logoColor=FDB515"/>
-</p>
+| Area            | Technologies                                   |
+| :-------------- | :--------------------------------------------- |
+| **LLMs**        | PyTorch · Hugging Face · vLLM · LangChain      |
+| **Retrieval**   | RAG · GraphRAG · Embeddings · SBERT            |
+| **Knowledge**   | Neo4j · Cypher · Ontologies · Knowledge Graphs |
+| **Data**        | Python · SQL · PostgreSQL · MySQL              |
+| **ML**          | scikit-learn · K-Means · TensorFlow/Keras      |
+| **Engineering** | Linux · Git · Docker · Multi-GPU               |
 
-### Knowledge & Data
-
-<p>
-<img src="https://img.shields.io/badge/Neo4j-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
-<img src="https://img.shields.io/badge/Cypher-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
-
-### Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### Readability-Navigator
-
-Adaptive text recommendation system for learners with specific learning difficulties.
-
-**Stack:** Python · SBERT · K-Means · Streamlit
-
-</td>
-
-<td width="50%">
-
-### GraphRAG Food
-
-Knowledge-graph-based retrieval pipeline for food security and circular economy research.
-
-**Stack:** Neo4j · Python · LLMs · RAG
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
@@ -141,11 +125,7 @@ Knowledge-graph-based retrieval pipeline for food security and circular economy 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=transparent"/>
 
@@ -153,20 +133,16 @@ Knowledge-graph-based retrieval pipeline for food security and circular economy 
 
 ---
 
-## Currently learning
-
-PyTorch internals · Advanced RAG architectures · Knowledge Graph Engineering · LLM evaluation · Ontology design
-
----
-
 <div align="center">
 
-### Beyond AI
+### Research → Build → Evaluate → Repeat
 
-Astronomy · Robotics · Formula 1 · Mountain Biking · Guitar
+<br/>
+
+**AI · Knowledge · Systems**
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&section=footer"/>
 
 </div>
