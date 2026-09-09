@@ -32,7 +32,7 @@ I'm an AI researcher working at the intersection of **Large Language Models, Kno
 
 My main interest is making LLM systems more **grounded, interpretable and verifiable** by connecting language models to structured representations of knowledge.
 
-Currently working on **GraphRAG and ontology-driven AI for food circular economy**.
+Currently working on **GraphRAG and ontology-driven AI**.
 
 ---
 
