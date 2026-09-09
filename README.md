@@ -44,7 +44,7 @@ Currently working on **GraphRAG and ontology-driven AI**.
 
 ### GraphRAG
 
-Building and iteratively repairing **Neo4j knowledge graphs** from food-security and circular-economy corpora.
+Building and iteratively repairing **Knowledge Graphs** from circular-economy corpora.
 
 The goal is to understand when structured retrieval actually improves generation compared with conventional text-based RAG.
 
