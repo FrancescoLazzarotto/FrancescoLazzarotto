@@ -30,8 +30,6 @@ Building systems that connect **LLMs with structured, verifiable knowledge**.
 
 I'm an AI researcher working at the intersection of **Large Language Models, Knowledge Graphs and Retrieval-Augmented Generation**.
 
-My main interest is making LLM systems more **grounded, interpretable and verifiable** by connecting language models to structured representations of knowledge.
-
 Currently working on **GraphRAG and ontology-driven AI**.
 
 ---
