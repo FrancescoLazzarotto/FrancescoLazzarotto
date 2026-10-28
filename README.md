@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Research%20%7C%20Knowledge%20Graphs%20%7C%20LLMs&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Research%20%&descAlignY=58&descSize=18" />
 
 ### AI Research Fellow · University of Turin
 
@@ -28,36 +28,12 @@ Building systems that connect **LLMs with structured, verifiable knowledge**.
 
 ## About
 
-I'm an AI researcher working at the intersection of **Large Language Models, Knowledge Graphs and Retrieval-Augmented Generation**.
+I'm an AI researcher working at the intersection of **Large Language Models, Knowledge Graphs and Ontologies**.
 
 Currently working on **GraphRAG and ontology-driven AI**.
 
 ---
 
-## What I'm working on
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### GraphRAG
-
-Building and iteratively repairing **Knowledge Graphs** from circular-economy corpora.
-
-The goal is to understand when structured retrieval actually improves generation compared with conventional text-based RAG.
-
-</td>
-<td width="50%" valign="top">
-
-### LLM Evaluation
-
-Developing evaluation pipelines for **groundedness, relevance and answer quality**, including LLM-as-a-judge workflows running open models with **vLLM** on multi-GPU infrastructure.
-
-</td>
-</tr>
-</table>
-
----
 
 ## Research
 
