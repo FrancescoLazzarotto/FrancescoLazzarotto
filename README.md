@@ -35,13 +35,4 @@ Currently working on **GraphRAG and ontology-driven AI**.
 ---
 
 
-## Research
-
-### Published
-
-**Balancing Thematic Relevance and Cognitive Load in Adaptive Text Recommendation for Learners with SLDs**
-
-Francesco Lazzarotto, Giulia Coucourde, Federica Cena
-*ACM UMAP 2026*
-
 
