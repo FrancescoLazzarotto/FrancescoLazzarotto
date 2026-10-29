@@ -44,37 +44,4 @@ Currently working on **GraphRAG and ontology-driven AI**.
 Francesco Lazzarotto, Giulia Coucourde, Federica Cena
 *ACM UMAP 2026*
 
----
 
-## Tech Stack
-
-### AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge&logo=lightning&logoColor=FDB515"/>
-</p>
-
-### Knowledge & Data
-
-<p>
-<img src="https://img.shields.io/badge/Neo4j-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
-<img src="https://img.shields.io/badge/Cypher-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
-
-### Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
