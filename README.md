@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Research%20%&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
 ### AI Research Engineer 
 
