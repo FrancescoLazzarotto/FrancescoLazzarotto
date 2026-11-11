@@ -26,8 +26,6 @@ Building systems that connect **LLMs with structured, verifiable knowledge**.
 
 ## About
 
-I'm an AI researcher working at the intersection of **Large Language Models, Knowledge Graphs and Ontologies**.
-
 Currently working on **GraphRAG and ontology-driven AI**.
 
 ---
