@@ -12,9 +12,6 @@ Building systems that connect **LLMs with structured, verifiable knowledge**.
 <a href="mailto:francescolazzarotto01@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://stackoverflow.com/users/14979870/francesco-lazzarotto">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
 
 <br/><br/>
 
