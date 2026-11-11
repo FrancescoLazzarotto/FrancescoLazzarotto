@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Francesco%20Lazzarotto&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
-### AI Research Engineer 
-
 Building systems that connect **LLMs with structured, verifiable knowledge**.
 
 <br/>
