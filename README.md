@@ -23,7 +23,7 @@ Building systems that connect **LLMs with structured, verifiable knowledge**.
 
 ## About
 
-Currently working on **GraphRAG and ontology-driven AI**.
+Currently working on **ontology-driven AI**.
 
 ---
 
